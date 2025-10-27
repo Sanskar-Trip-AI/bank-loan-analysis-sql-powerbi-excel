@@ -96,9 +96,7 @@ Each field plays a critical role in loan management, risk assessment, and data-d
 
 
 ## Implementation
-The project involved importing the dataset from Excel into MySQL for cleaning, analysis, and visualization using Power BI.  
-The dashboards were designed to meet the specified business requirements and aligned with the data dictionary to ensure correct field usage and interpretation.  
-Each visualization was carefully structured to reflect key business KPIs, allowing decision-makers to evaluate loan performance, customer risk, and portfolio trends effectively.
+The project involved importing the dataset from Excel into MySQL for cleaning, analysis, and visualization using Power BI. The dashboards were designed to meet the specified business requirements and aligned with the data dictionary to ensure correct field usage and interpretation. Each visualization was carefully structured to reflect key business KPIs, allowing decision-makers to evaluate loan performance, customer risk, and portfolio trends effectively.
 
 
 ## Data Validation
@@ -120,12 +118,11 @@ This multi-step validation approach ensured reliable, data-driven insights.
 - Short-term loans demonstrated higher repayment rates and lower default probabilities.
 
 ## Conclusion
-The project successfully transformed raw loan data into actionable insights through structured SQL analysis and dynamic Power BI dashboards.  
-By validating metrics and focusing on critical KPIs, the analysis supports better lending decisions, risk evaluation, and business performance tracking.
+The project successfully transformed raw loan data into actionable insights through structured SQL analysis and dynamic Power BI dashboards. By validating metrics and focusing on critical KPIs, the analysis supports better lending decisions, risk evaluation, and business performance tracking.
 
 
 ## Author
 **Sanskar Tripathi**  
 📧 Email: [sanskar.trip.ai@gmail.com](mailto:sanskar.trip.ai@gmail.com)  
-💼 GitHub: [https://github.com/Sanskar-Trip-AI]((https://github.com/Sanskar-Trip-AI))  
+💼 GitHub: [https://github.com/Sanskar-Trip-AI](https://github.com/Sanskar-Trip-AI)  
 🔗 LinkedIn: [linkedin.com/in/sanskartripathi](https://www.linkedin.com/in/sanskartripathi)
