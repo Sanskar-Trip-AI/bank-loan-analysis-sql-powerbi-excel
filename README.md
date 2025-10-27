@@ -43,3 +43,48 @@ The goal of this project is to perform an end-to-end analysis of loan data from 
 - % of Good Loans vs. Bad Loans
 
 
+## 📊 Dashboards Overview
+
+The project includes three interactive Power BI dashboards — **Summary**, **Overview**, and **Details** — designed to analyze and visualize loan performance and borrower data effectively.
+
+---
+
+### 🧮 Summary Dashboard
+![Summary Dashboard](dashboard/dashboard-summary.png)
+
+The **Summary Dashboard** captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's overall health and lending strategy impact.  
+It includes the following KPIs:
+- **Total Loan Applications (MTD and MoM)**
+- **Total Funded Amount (MTD and MoM)**
+- **Total Amount Received (MTD and MoM)**
+- **Average Interest Rate (MTD and MoM)**
+- **Average Debt-to-Income Ratio (DTI) (MTD and MoM)**  
+Additionally, it distinguishes between *Good Loans* and *Bad Loans*, with specific indicators for each category — helping assess loan portfolio quality.
+
+---
+
+### 🌐 Overview Dashboard
+![Overview Dashboard](dashboard/dashboard-overview.png)
+
+The **Overview Dashboard** visually represents various loan-related metrics through multiple chart types:
+- **Monthly Trends by Issue Date**
+- **Regional Analysis by State**
+- **Loan Term Analysis**
+- **Employment Length Analysis**
+- **Loan Purpose Breakdown**
+- **Home Ownership Analysis**  
+These visualizations help identify trends, seasonal patterns, and the distribution of loans across multiple borrower and loan characteristics.
+
+---
+
+### 🗂️ Details Dashboard
+![Details Dashboard](dashboard/dashboard-details.png)
+
+The **Details Dashboard** provides a granular, user-friendly view of all loan data for in-depth analysis of borrower profiles and performance metrics.  
+Key data fields include:
+- Loan ID, Address State, Employment Length, Employee Title  
+- Grade/Sub Grade, Home Ownership, Issue Date, Loan Status  
+- Purpose, Term, Verification Status, Annual Income  
+- DTI, Instalment, Interest Rate, and Loan Amount  
+
+Each field plays a critical role in loan management, risk assessment, and data-driven decision-making.
