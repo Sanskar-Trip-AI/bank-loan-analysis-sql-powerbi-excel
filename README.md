@@ -123,6 +123,6 @@ The project successfully transformed raw loan data into actionable insights thro
 
 ## Author
 **Sanskar Tripathi**  
-📧 Email: [sanskar.trip.ai@gmail.com](mailto:sanskar.trip.ai@gmail.com)  
-💼 GitHub: [https://github.com/Sanskar-Trip-AI](https://github.com/Sanskar-Trip-AI)  
-🔗 LinkedIn: [linkedin.com/in/sanskartripathi](https://www.linkedin.com/in/sanskartripathi)
+**Email:** [sanskar.trip.ai@gmail.com](mailto:sanskar.trip.ai@gmail.com)  
+**GitHub:** [https://github.com/Sanskar-Trip-AI](https://github.com/Sanskar-Trip-AI)  
+**LinkedIn:** [linkedin.com/in/sanskartripathi](https://www.linkedin.com/in/sanskartripathi)
