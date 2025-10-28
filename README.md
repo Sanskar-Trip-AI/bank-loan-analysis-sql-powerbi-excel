@@ -55,7 +55,7 @@ The project includes three interactive Power BI dashboards — **Summary**, **Ov
 ---
 
 ### 🧮 Summary Dashboard
-![Summary Dashboard](dashboard/Summary.png)
+![Summary Dashboard](Dashboards/Summary.png)
 
 The **Summary Dashboard** captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's overall health and lending strategy impact.  
 It includes the following KPIs:
@@ -69,7 +69,7 @@ Additionally, it distinguishes between *Good Loans* and *Bad Loans*, with specif
 ---
 
 ### 🌐 Overview Dashboard
-![Overview Dashboard](dashboard/Overview.png)
+![Overview Dashboard](Dashboards/Overview.png)
 
 The **Overview Dashboard** visually represents various loan-related metrics through multiple chart types:
 - **Monthly Trends by Issue Date**
@@ -83,7 +83,7 @@ These visualizations help identify trends, seasonal patterns, and the distributi
 ---
 
 ### 🗂️ Details Dashboard
-![Details Dashboard](dashboard/Details.png)
+![Details Dashboard](Dashboards/Details.png)
 
 The **Details Dashboard** provides a granular, user-friendly view of all loan data for in-depth analysis of borrower profiles and performance metrics.  
 Key data fields include:
