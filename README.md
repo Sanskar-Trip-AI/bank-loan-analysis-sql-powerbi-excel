@@ -121,9 +121,12 @@ This multi-step validation approach ensured reliable, data-driven insights.
 The project successfully transformed raw loan data into actionable insights through structured SQL analysis and dynamic Power BI dashboards. By validating metrics and focusing on critical KPIs, the analysis supports better lending decisions, risk evaluation, and business performance tracking.
 
 
-## Author & Contact
+## 👤 Author & Contact  
 **Sanskar Tripathi**  
+_Data Analysis | SQL · Python · Power BI · Machine Learning_  
+
 
 Email: [sanskar.trip.ai@gmail.com](mailto:sanskar.trip.ai@gmail.com)  
 GitHub: [https://github.com/Sanskar-Trip-AI](https://github.com/Sanskar-Trip-AI)  
 LinkedIn: [linkedin.com/in/sanskartripathi](https://www.linkedin.com/in/sanskartripathi)
+
